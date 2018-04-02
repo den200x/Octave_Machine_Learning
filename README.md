@@ -1,2 +1,2 @@
-# Octave_Machine_Learning_Linear_Regression
+# Octave_Machine_Learning
 Linear regression with multiple variables 
